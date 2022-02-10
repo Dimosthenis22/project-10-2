@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(31, 75, 221);
+    font-size: larger;
+}
+.ul {
+    color: springgreen;
+    list-style-type: square;
+    text-decoration: underline;
+}
+.ol {
+    color: red;
+    list-style-type: upper-roman;
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+#h1 {
+    color: violet;
+}
+#h3 {
+    color: whitesmoke;
+}
+p {
+    color:white;
+}
+h3 {
+    color: black;
+}
