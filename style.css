@@ -6,22 +6,44 @@ body {
     color: springgreen;
     list-style-type: square;
     text-decoration: underline;
+    text-decoration-color: blanchedalmond;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 .ol {
     color: red;
     list-style-type: upper-roman;
     text-decoration: underline;
     text-decoration-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 #h1 {
     color: violet;
+    
 }
 #h3 {
     color: whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 p {
     color:white;
 }
 h3 {
     color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  
